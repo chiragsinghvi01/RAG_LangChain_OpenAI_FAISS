@@ -1,7 +1,11 @@
 langchain
 langchain-community
 openai
+faiss-cpu
+sentence-transformers
+langchain-huggingface
 tiktoken
 pypdf
+IPython
 python-dotenv
 rapidocr-onnxruntime
